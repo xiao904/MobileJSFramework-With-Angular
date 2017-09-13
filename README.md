@@ -1,3 +1,2 @@
-# MobileJSFramework-With-Angular
+# MobileJSFramework
 
-This is a project solely for a front-end framework using angular
